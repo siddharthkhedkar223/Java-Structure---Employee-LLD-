@@ -37,18 +37,13 @@ This repository demonstrates a basic **LLD (Low-Level Design)** structure in Jav
 ## 📁 Folder Structure (Example)
 
 Employee_LLD/
-│
 ├── model/
 │ └── Employee.java
-│
 ├── service/
 │ └── EmployeeService.java
-│
 ├── driver/
 │ └── Main.java
-│
 └── README.md
-
 
 ---
 
